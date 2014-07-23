@@ -1,4 +1,2 @@
-download-custom-cartridge-mysql
-===============================
-
-copy from origin-server, change cartridge-vendor, add source-url
+# OpenShift MySQL Cartridge
+This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#mysql).
