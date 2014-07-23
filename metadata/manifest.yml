@@ -14,7 +14,7 @@ Compatible-Versions:
 - 0.2.12
 - 0.2.13
 - 0.2.14
-Cartridge-Vendor: redhat
+Cartridge-Vendor: qwang
 License: GPL
 Vendor: Oracle
 Categories:
@@ -65,3 +65,4 @@ Version-Overrides:
     - mysql-5.1
     - mysql
     - mysql-singleton-master
+Source-Url: https://github.com/qwang1/download-custom-cartridge-mysql.git
